@@ -1,0 +1,107 @@
+  .class01 {
+    background-color: red;
+    height: 200px;
+    border: 5px solid black;
+    color: black;
+    font-weight: bold;
+  }
+  .class02 {
+    background-color: blue;
+    height: 200px;
+    border: 5px solid black;
+    color: black;
+    font-weight: bold;
+  }
+    .class11 {
+    background-color: yellow;
+    height: 200px;
+    border: 5px solid black;
+    color: black;
+    font-weight: bold;
+  }
+    .class12 {
+    background-color: tomato;
+    height: 200px;
+    border: 5px solid black;
+        color: black;
+    font-weight: bold;
+  }
+    .class13 {
+    background-color: gray;
+    height: 200px;
+    border: 5px solid black;
+        color: black;
+    font-weight: bold;
+  }
+    .class21 {
+    background-color: BlueViolet;
+    height: 200px;
+    border: 5px solid black;
+        color: black;
+    font-weight: bold;
+  }
+  .class22 {
+    background-color: brown;
+    height: 200px;
+    border: 5px solid black;
+    color: black;
+    font-weight: bold; 
+  }
+  .classBlack {
+    height: 200px;
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    font-weight: bold;
+  }
+  .classRandom{
+    height: 200px;
+    color: black;
+    border: 5px solid white;
+    font-weight: bold;
+  }
+@keyframes fadeMe {
+  0% {
+    background-color: gray;
+  }
+  50% {
+    background-color: offwhite;
+  }
+  100% {
+    background-color: white
+  }
+}
+
+@keyframes fadeMeY {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: offwhite;
+  }
+  100% {
+    background-color: yellow;
+  }
+}
+@keyframes fadeMeV {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: offwhite;
+  }
+  100% {
+    background-color: BlueViolet;
+  }
+}
+@keyframes fadeMeB {
+  0% {
+    background-color: white;
+  }
+  50% {
+    background-color: offwhite;
+  }
+  100% {
+    background-color: brown;
+  }
+}
